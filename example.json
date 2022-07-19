@@ -2,5 +2,6 @@
     "asset": "MATIC",
     "PRU": 2.36,
     "TPS": [2.86, 3.31, 3.92, 4.6],
-    "wager": 700
+    "wager": 700,
+    "STOPLOSS": 1.97
 }
